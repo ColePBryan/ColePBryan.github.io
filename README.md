@@ -24,7 +24,7 @@ All configuration is done in the four configuration files under `config/_default
 
 `hugo.yaml`:
 ```yaml
-baseURL: 'https://ColePBryan.github.io/ColePBryan.github.io'
+baseURL: 'https://ColePBryan.github.io'
 title: 'Qubt Theme'
 ```
 
@@ -122,4 +122,4 @@ Last step: Go to Settings -> Pages -> Build and deployment -> Set the Source to 
 Next time you publish a release this workflow will build and deploy your site :tada:
 
 Your site will be published to the following URL:
-`https://ColePBryan.github.io/ColePBryan.github.io`
+`https://ColePBryan.github.io`
